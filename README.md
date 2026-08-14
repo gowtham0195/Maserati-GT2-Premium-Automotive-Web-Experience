@@ -1,4 +1,4 @@
-# Maserati-GT2-Premium-Automotive-Web-Experience
+# Maserati-GT2-Premium-Automotive-Website
 A premium automotive website concept inspired by the Maserati GT2, designed to combine luxury, performance, and immersive visual storytelling through a sophisticated UI/UX experience.
 
 The project focuses on creating a high-end digital experience with cinematic visuals, elegant typography, interactive navigation, model discovery, authentication screens, and strong automotive branding.
